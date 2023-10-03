@@ -1,0 +1,81 @@
+*{
+    margin:25px; 
+    background-color:#f6cdcd;
+}
+header{
+    font-size:40px;
+    font-family: Courier;
+    font-weight:bold;
+    line-height:70px;
+    letter-spacing:9px;
+    text-align: center; 
+    color:#850042;
+}
+h2{
+    font-family: "Georgia";
+    font-size: 35px;
+    text-align:left;
+    color:#920049; 
+    font-weight:200;
+    line-height:40px;
+}
+footer{
+    font-size:21px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    line-height: 90px;
+    text-align: right;
+    color: #990049;
+}
+.list-item{
+    width: 1000px;
+    height: 25px;
+    padding:10px;
+    margin: 8px;
+    border-style:hidden;
+    border-width:2 px;
+    border-radius:12px ;
+    background-color:#fee4e4;
+    justify-content: center;
+    color: #9F2850;
+    font-family:courier;
+    font-size:22px;
+    font-weight:bolder;
+    list-style-type: none;
+}
+textarea[name="user-input"] {
+    line-height: 1.5;
+    width: 90%;
+    height:180px;
+    resize:none;
+    margin:20px;
+    padding: 10px;
+    outline:none;
+    border-style:none;
+    border-width:8px;
+    border-radius:18px ;
+    font-family:courier;
+    font-size:20px;
+    font-weight:bolder;
+    color:#872143;
+    background-color:#fee4e4;
+}
+#reset-button{
+    background-color:#fee4e4;
+    border: none;
+    text-align:center;
+    margin:auto;
+    margin-top:10%;
+    display:flex;
+    justify-content:center;
+    padding:auto;
+    margin-top:15px;
+    height:auto;
+    width:300px;
+    border-width:8px;
+    border-radius:18px ;
+    font-family:courier;
+    font-size: 30px;
+    font-weight:bolder;
+    color:#872143;
+}
