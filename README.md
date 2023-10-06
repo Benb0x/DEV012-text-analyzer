@@ -59,32 +59,25 @@ enviadas como _input_ por ella. Lo harás utilizando HTML, CSS y JavaScript.
 
 ## 4.  Funcionalidad de proyecto
 
-El listado de funcionalidades es el siguiente:
-
-1. La aplicación debe permitir a la usuaria ingresar un texto escribiéndolo
+1. La aplicación permite a la usuaria ingresar un texto escribiéndolo
 en un cuadro de texto.
 
-2. La aplicación debe calcular las siguientes métricas y actualizar el
-resultado en tiempo real a medida que la usuaria escribe su texto:
+2. La aplicación calcular y actualiza en tiempo real:
 
-    - **Recuento de palabras**: la aplicación debe poder contar el número de
-    palabras en el texto de entrada y mostrar este recuento a la usuaria
-    - **Recuento de caracteres**: la aplicación debe poder contar el número de
-    caracteres en el texto de entrada, incluidos espacios y signos de
-    puntuación, y mostrar este recuento a la usuaria.
+    - **Recuento de palabras**: : La aplicación cuenta el número de palabras en el texto y muestra este recuento a la usuaria.
+    - **Recuento de caracteres**: la aplicación cuenta el número de caracteres en el texto de entrada, incluidos espacios y signos de
+    puntuación, y muestra este recuento a la usuaria.
     - **Recuento de caracteres excluyendo espacios y signos de puntuación**:
-    la aplicación debe poder contar el número de caracteres en el texto de
+    la aplicación cuenta el número de caracteres en el texto de
     entrada, excluyendo espacios y signos de puntuación, y mostrar este recuento
     a la usuaria.
-    - **Recuento de números**: la aplicación debe contar cúantos números hay en
-    el texto de entrada y mostrar este recuento a la usuaria.
-    - **Suma total de números**: la aplicación debe sumar todos los números que
-    hay en el texto de entrada y mostrar el resultado a la usuaria.
-    - **Longitud media de las palabras**: la aplicación debe calcular la
-    longitud media de las palabras en el texto de entrada y mostrársela a la usuaria.
+    - **Recuento de números**: la aplicación contabiliza los números encontados en el texto de entrada y muestra este recuento a la usuaria.
+    - **Suma total de números**: la aplicación suma todos los números que
+    hay en el texto de entrada y muestra el resultado a la usuaria.
+    - **Longitud media de las palabras**: la aplicación calcula la
+    longitud media de las palabras en el texto de entrada y la muestra a la usuaria.
 
-3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
-clic en un botón.
+3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el bototn "Borrar".
 
 ![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
 
