@@ -77,7 +77,7 @@ en un cuadro de texto.
     - **Longitud media de las palabras**: la aplicación calcula la
     longitud media de las palabras en el texto de entrada y la muestra a la usuaria.
 
-3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el bototn "Borrar".
+3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
 
 ![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
 
