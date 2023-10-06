@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. ¿Qué es un analizador de texto?](#1-consideraciones-generales)
+* [1. ¿Qué es un analizador de texto?](#1-¿Qué-es-un-analizador-de-texto?)
 * [2. Preámbulo](#2-preámbulo)
 * [3. Resumen del proyecto](#3-resumen-del-proyecto)
 * [4. Funcionalidad de proyecto ](#4-funcionalidades)
