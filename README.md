@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Consideraciones generales](#1-consideraciones-generales)
+* [1. ¿Qué es un analizador de texto?](#1-consideraciones-generales)
 * [2. Preámbulo](#2-preámbulo)
 * [3. Resumen del proyecto](#3-resumen-del-proyecto)
 * [4. Funcionalidad de proyecto ](#4-funcionalidades)
@@ -16,7 +16,11 @@
 
 ***
 
-## 1. Consideraciones generales
+## 1. ¿Qué es un analizador de texto?
+Un analizador de texto es una herramienta que permite analizar un texto contando el número de frases, palabras y caracteres presentes.
+Es útil para cualquier tipo de escritor que escribe textos con un determinado número mínimo y/o máximo de palabras. 
+En este caso nos ayuda para conocer 6 métricas: 
+cantidad de palabras, cantidad de caracteres, cantidad de caracteres excluyendo espacios y signos de puntuación, cantidad de cifras numéricas, la suma total de estos números y la longitud promedio de las palabras.
 
 
 ## 2. Preámbulo
