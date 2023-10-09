@@ -53,14 +53,34 @@ en un cuadro de texto.
     longitud media de las palabras en el texto de entrada y la muestra a la usuaria.
 
 3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
-![Desktop 2023 10 09 - 10 25 22 03 (1)](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/5ddc7a40-f365-4a0e-87ad-22afced52d8e)
+
 
 ## Deploy
 
 La aplicación se encuentra publicado a través de Github Pages, accesible a todo usuario: https://benb0x.github.io/DEV012-text-analyzer/
 
 ## 7. Pruebas
+El proyecto debió pasar por diversas pruebas unitarias para validar que todos los requisitos mínimos de aceptación fuesen cumplidos.
+Pruebas unitarias
+Las pruebas unitarias de este proyecto ejecutan los métodos get.. correspondientes a cada métrica dentro del archivo analyzer.js con diferentes argumentos y se confirmará que los valores retornados sean los esperados. También se ejecutan guías de estilos para
+verificar el HTML y JavaScript.
 
-Este proyecto cuenta con 3 conjuntos de pruebas que te ayudarán a conocer si
-cumples los criterios mínimos de acept
+Esta prueba de ejecutó con npm run test en la terminal dentro de la carpeta del proyecto.
+
+Pruebas de criterios mínimos de aceptación
+En esta prueba se analizaron HTML, JS y CSS para verificar que se cumplió con los criterios minimos de aceptación.
+
+Todas estas pruebas se ejecutaron con el comando npm run test:oas en la terminal dentro de la carpeta del proyecto. De igual forma se ejecutaron de manera individual con cada uno de los comandos a continuación:
+
+npm run test:oas-html
+npm run test:oas-css
+npm run test:oas-web-api
+npm run test:oas-js
+Pruebas end-to-end
+Una prueba end-to-end (E2E) es una técnica de prueba de software en la que se verifica el funcionamiento de todo el sistema desde el inicio hasta el final. En otras palabras, se prueba el flujo completo del software, simulando la interacción del usuario con la 
+aplicación, para asegurarse de que todas las partes del sistema funcionan correctamente en conjunto.
+
+Esta prueba se ejecutó a través del comando npm run test:e2e.
+
+
 
