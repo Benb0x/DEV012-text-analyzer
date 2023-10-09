@@ -55,10 +55,13 @@ en un cuadro de texto.
 
 3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
 
-![image](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/25f9a3f7-0fd0-4bb2-a6db-59fc3406782a)
+![1ccdbfbf-12c1-4895-9386-1c0b65997a96](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/2d682532-8b17-4762-b0b1-6461ff243000)
+
+![25953f87-98ba-41f8-87ca-614523d940cc](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/fe40d03a-479d-4af6-86f8-85ab5d48f9f0)
 
 
 ## Deploy
+
 
 La aplicación se encuentra publicado a través de Github Pages, accesible a todo usuario: https://benb0x.github.io/DEV012-text-analyzer/
 
