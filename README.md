@@ -14,7 +14,6 @@
 * [10. Objetivos de aprendizaje](#10-objetivos-de-aprendizaje)
 * [11. Funcionalidades opcionales](#11-funcionalidades-opcionales)
 
-***
 
 ## 1. ¿Qué es un analizador de texto?
 Un analizador de texto es una herramienta que permite analizar un texto contando el número de frases, palabras y caracteres presentes.
