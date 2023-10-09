@@ -2,20 +2,17 @@
 
 ## Índice
 
-* [1. ¿Qué es un analizador de texto?](#¿qué-es-un-analizador-de-texto?)
-* [2. Preámbulo](#2-preámbulo)
-* [3. Resumen del proyecto](#3-resumen-del-proyecto)
-* [4. Funcionalidad de proyecto ](#4-funcionalidades)
-* [5. Boilerplate](#5-boilerplate)
-* [6. Criterios de aceptación mínimos del proyecto](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [7. Pruebas](#7-pruebas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Consideraciones para pedir tu Project Feedback](#9-consideraciones-para-pedir-tu-project-feedback)
-* [10. Objetivos de aprendizaje](#10-objetivos-de-aprendizaje)
-* [11. Funcionalidades opcionales](#11-funcionalidades-opcionales)
+* [Resumen](#Resumen)
+* [Introducción](#Introducción)
+* [Prototipado](#Prototipado)
+* [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
+* [Criterios de aceptación mínimos](#Criterios-de-aceptación-mínimos)
+* [Pruebas](#Pruebas)
+* [Desarrolladores del proyecto](#Desarrolladores-del-proyecto)
 
 
-## 1. ¿Qué es un analizador de texto?
+## Resumen
+
 Un analizador de texto es una herramienta que permite analizar un texto contando el número de frases, palabras y caracteres presentes.
 Es útil para cualquier tipo de escritor que escribe textos con un determinado número mínimo y/o máximo de palabras. 
 En este caso nos ayuda para conocer 6 métricas: 
