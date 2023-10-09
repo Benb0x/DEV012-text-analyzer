@@ -56,7 +56,7 @@ en un cuadro de texto.
 
 ![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
 
-## 5. Boilerplate
+## Deploy
 
 
 ### Descripción de scripts / archivos
