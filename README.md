@@ -19,8 +19,8 @@ En este caso nos ayuda para conocer 6 métricas:
 cantidad de palabras, cantidad de caracteres, cantidad de caracteres excluyendo espacios y signos de puntuación, cantidad de cifras numéricas, la suma total de estos números y la longitud promedio de las palabras.
 
 
-## 2. Preámbulo
-
+## Introducción
+![Vista del Analizador de texto desde un navegador web]
 ![Una lupa sobre texto de libro](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
 
 _Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
