@@ -6,7 +6,7 @@
 * [Introducción](#Introducción)
 * [Prototipado](#Prototipado)
 * [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
-* [Deploy](#Criterios-de-aceptación-mínimos)
+* [Deploy](#Deploy)
 * [Pruebas](#Pruebas)
 * [Desarrolladores del proyecto](#Desarrolladores-del-proyecto)
 
