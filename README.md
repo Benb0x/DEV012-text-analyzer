@@ -28,6 +28,7 @@ También cuenta con un botón ubicado abajo del cuadro de texto que nos ayuda a 
 el usuario introduzca y a reiniciar los valores de nuestras métricas. 
 
 
+
 ## Prototipo
 El proyecto inició con un prototipado creado en canva para poder estructurar a grandes rasgos como debería verse el proyecto final, aunque la idea inicial no refleja al cien por ciento el resultado, fue de gran utilidad al momento de empezar la parte de css.
 [![texto.png](https://i.postimg.cc/15j0QpnX/texto.png)](https://postimg.cc/Xp9BKBg6)
@@ -54,6 +55,7 @@ en un cuadro de texto.
 
 3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
 
+![GeForce NOW 2023 10 09 - 11 18 13 04 (1)](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/be5890c1-a8f4-4849-9d2e-dd632dc3d263)
 
 ## Deploy
 
