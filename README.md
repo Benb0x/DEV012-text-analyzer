@@ -90,7 +90,6 @@ Esta prueba se ejecutó a través del comando npm run test:e2e.
 
 ## Desarrolladora del proyecto
 
-[https://github.com/Benb0x](https://github.com/account)https://github.com/account
-
-
+| [<img src="https://avatars.githubusercontent.com/u/144946997?v=4" width=115px><br><sub>Barbara Trejo<sub>](https://github.com/Benb0x)
+| :---: |
 
