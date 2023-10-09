@@ -8,7 +8,7 @@
 * [Funcionalidad del proyecto](#Funcionalidad-del-proyecto)
 * [Deploy](#Deploy)
 * [Pruebas](#Pruebas)
-* [Desarrolladores del proyecto](#Desarrolladores-del-proyecto)
+* [Desarrolladora del proyecto](#Desarrolladora-del-proyecto)
 
 
 ## Resumen
@@ -87,6 +87,10 @@ Una prueba end-to-end (E2E) es una técnica de prueba de software en la que se v
 aplicación, para asegurarse de que todas las partes del sistema funcionan correctamente en conjunto.
 
 Esta prueba se ejecutó a través del comando npm run test:e2e.
+
+## Desarrolladora del proyecto
+
+https://github.com/Benb0x
 
 
 
