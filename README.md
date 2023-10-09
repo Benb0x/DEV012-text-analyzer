@@ -29,8 +29,8 @@ el usuario introduzca y a reiniciar los valores de nuestras métricas.
 
 
 ## Prototipo
-
-
+El proyecto inició con un prototipado creado en canva para poder estructurar a grandes rasgos como debería verse el proyecto final, aunque la idea inicial no refleja al cien por ciento el resultado, fue de gran utilidad al momento de empezar la parte de css.
+[![texto.png](https://i.postimg.cc/15j0QpnX/texto.png)](https://postimg.cc/Xp9BKBg6)
 
 ## 4.  Funcionalidad de proyecto
 
