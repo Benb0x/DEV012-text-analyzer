@@ -55,7 +55,8 @@ en un cuadro de texto.
 
 3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
 
-![GeForce NOW 2023 10 09 - 11 18 13 04 (1)](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/be5890c1-a8f4-4849-9d2e-dd632dc3d263)
+![image](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/25f9a3f7-0fd0-4bb2-a6db-59fc3406782a)
+
 
 ## Deploy
 
