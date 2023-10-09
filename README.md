@@ -20,11 +20,8 @@ cantidad de palabras, cantidad de caracteres, cantidad de caracteres excluyendo 
 
 
 ## Introducción
-![Vista del Analizador de texto desde un navegador web]
-![Una lupa sobre texto de libro](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
-
-_Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-_en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+Vista del Analizador de texto desde un navegador web 
+[![imagen-2023-10-09-015338079.png](https://i.postimg.cc/fR5M0kwG/imagen-2023-10-09-015338079.png)](https://postimg.cc/MncCC6f5)
 
 
 ## 3. Resumen del proyecto
