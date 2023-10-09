@@ -4,7 +4,7 @@
 
 * [Resumen](#Resumen)
 * [Introducción](#Introducción)
-* [Prototipado](#Prototipado)
+* [Prototipo](#Protipo)
 * [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 * [Deploy](#Deploy)
 * [Pruebas](#Pruebas)
