@@ -6,7 +6,7 @@
 * [Introducción](#Introducción)
 * [Prototipado](#Prototipado)
 * [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
-* [Criterios de aceptación mínimos](#Criterios-de-aceptación-mínimos)
+* [Deploy](#Criterios-de-aceptación-mínimos)
 * [Pruebas](#Pruebas)
 * [Desarrolladores del proyecto](#Desarrolladores-del-proyecto)
 
@@ -23,7 +23,8 @@ cantidad de palabras, cantidad de caracteres, cantidad de caracteres excluyendo 
 Vista del Analizador de texto desde un navegador web 
 [![imagen-2023-10-09-015338079.png](https://i.postimg.cc/fR5M0kwG/imagen-2023-10-09-015338079.png)](https://postimg.cc/MncCC6f5)
 
-El analizador de texto está conformado por 6 métricas que analizan y devuelven al usuario el valor de lo ingresa en el cuadro de testo ubicado abajo de las mismas. También cuenta con un botón ubicado abajo del cuadro de texto que nos ayuda a limpiar todo lo que 
+El analizador de texto está conformado por 6 métricas que analizan y devuelven al usuario el valor de lo ingresa en el cuadro de testo ubicado abajo de las mismas.
+También cuenta con un botón ubicado abajo del cuadro de texto que nos ayuda a limpiar todo lo que 
 el usuario introduzca y a reiniciar los valores de nuestras métricas. 
 
 
