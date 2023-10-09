@@ -32,7 +32,7 @@ el usuario introduzca y a reiniciar los valores de nuestras métricas.
 El proyecto inició con un prototipado creado en canva para poder estructurar a grandes rasgos como debería verse el proyecto final, aunque la idea inicial no refleja al cien por ciento el resultado, fue de gran utilidad al momento de empezar la parte de css.
 [![texto.png](https://i.postimg.cc/15j0QpnX/texto.png)](https://postimg.cc/Xp9BKBg6)
 
-## 4.  Funcionalidad de proyecto
+## Funcionalidad de proyecto
 
 1. La aplicación permite a la usuaria ingresar un texto escribiéndolo
 en un cuadro de texto.
@@ -59,7 +59,7 @@ en un cuadro de texto.
 
 La aplicación se encuentra publicado a través de Github Pages, accesible a todo usuario: https://benb0x.github.io/DEV012-text-analyzer/
 
-## 7. Pruebas
+## Pruebas
 El proyecto debió pasar por diversas pruebas unitarias para validar que todos los requisitos mínimos de aceptación fuesen cumplidos.
 Pruebas unitarias
 Las pruebas unitarias de este proyecto ejecutan los métodos get.. correspondientes a cada métrica dentro del archivo analyzer.js con diferentes argumentos y se confirmará que los valores retornados sean los esperados. También se ejecutan guías de estilos para
