@@ -16,7 +16,7 @@
 
 ***
 
-## 1. ¿Qué es un analizador de texto?
+# 1. ¿Qué es un analizador de texto?
 Un analizador de texto es una herramienta que permite analizar un texto contando el número de frases, palabras y caracteres presentes.
 Es útil para cualquier tipo de escritor que escribe textos con un determinado número mínimo y/o máximo de palabras. 
 En este caso nos ayuda para conocer 6 métricas: 
