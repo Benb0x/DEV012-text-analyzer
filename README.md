@@ -53,8 +53,7 @@ en un cuadro de texto.
     longitud media de las palabras en el texto de entrada y la muestra a la usuaria.
 
 3. La aplicación permite resetear tanto el cuadro de texto como las metricas al utilizar el boton "Borrar".
-
-![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
+![Desktop 2023 10 09 - 10 25 22 03 (1)](https://github.com/Benb0x/DEV012-text-analyzer/assets/144946997/5ddc7a40-f365-4a0e-87ad-22afced52d8e)
 
 ## Deploy
 
