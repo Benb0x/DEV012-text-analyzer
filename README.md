@@ -28,7 +28,7 @@ También cuenta con un botón ubicado abajo del cuadro de texto que nos ayuda a 
 el usuario introduzca y a reiniciar los valores de nuestras métricas. 
 
 
-## 3. Resumen del proyecto
+## 3. Funciones del proyecto
 
 
 
