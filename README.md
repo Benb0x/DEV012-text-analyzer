@@ -63,7 +63,7 @@ en un cuadro de texto.
 ## Deploy
 
 
-La aplicación se encuentra publicado a través de Github Pages, accesible a todo usuario: https://benb0x.github.io/DEV012-text-analyzer/
+La aplicación se encuentra publicado a través de Github Pages, accesible a todo usuario: [https://benb0x.github.io/DEV012-text-analyzer/](https://benb0x.github.io/DEV012-text-analyzer/)
 
 ## Pruebas
 El proyecto debió pasar por diversas pruebas unitarias para validar que todos los requisitos mínimos de aceptación fuesen cumplidos.
